@@ -170,7 +170,7 @@ private:
         if(removeZero)
           {
              timeArr[1] = 10;
-             timeArr[0] = timeVar,
+             timeArr[0] = timevar;
           }
         else
           {
